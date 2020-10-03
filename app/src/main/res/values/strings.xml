@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppTallerRoomKotlin</string>
+    <string name="valettitulo">Ingrese el título de la tarjeta</string>
+    <string name="valetcontenido">Ingrese la decripción de la tarjeta</string>
+    <string name="valselcolor">Seleccione un color para la tarjeta</string>
+    <string name="valcolorrojo">Rojo</string>
+    <string name="valcolorverde">Verde</string>
+    <string name="valcoloramarillo">Amarillo</string>
+    <string name="valswimportante">Es importante?</string>
+</resources>
